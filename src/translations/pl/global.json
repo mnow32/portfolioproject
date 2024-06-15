@@ -1,0 +1,26 @@
+{
+    "about": {
+        "title": "O mnie",
+        "message": "Cześć! Nazywam się Mateusz i jestem początkującym webdeveloperem z pasją do tworzenia nowoczesnych i funkcjonalnych aplikacji internetowych. Specjalizuję się w pracy z technologiami .NET, które pozwalają mi tworzyć wydajne i skalowalne rozwiązania. Mam solidne podstawy w C# i ASP.NET, a także doświadczenie w pracy z bazami danych SQL Server. Stale poszerzam swoją wiedzę, śledząc najnowsze trendy w branży i eksperymentując z nowymi narzędziami i frameworkami. Moim celem jest ciągły rozwój i tworzenie aplikacji, które nie tylko spełniają oczekiwania użytkowników, ale również dostarczają im niezapomnianych doświadczeń.",
+        "skill": "Umiejętności"
+    },
+    "contact": {
+        "title": "Kontakt",
+        "message": "Zapraszam do kontaktu",
+        "tel": "Telefon"
+    },
+    "projects": {
+        "title": "Projekty",
+        "title1": "Aplikacja do Zarządzania Zadaniami",
+        "projekt1": "Stworzyłem aplikację do zarządzania zadaniami, która umożliwia użytkownikom tworzenie, edytowanie i usuwanie zadań oraz śledzenie ich statusu. Aplikacja została zbudowana przy użyciu ASP.NET MVC, a interfejs użytkownika zaprojektowałem z wykorzystaniem Bootstrap. Dane są przechowywane w bazie danych SQL Server, a Entity Framework umożliwia efektywną pracę z danymi.",
+        "title2": "Portal Społecznościowy dla Programistów",
+        "projekt2": "Rozwinąłem portal społecznościowy skierowany do programistów, gdzie użytkownicy mogą tworzyć profile, dzielić się postami, komentować oraz oceniać treści innych użytkowników. Backend aplikacji jest oparty na ASP.NET Core, natomiast frontend zrealizowałem przy użyciu Angular. Do zarządzania danymi użyłem Identity Framework oraz Entity Framework Core.",
+        "title3": "Sklep Internetowy",
+        "projekt3": "Stworzyłem w pełni funkcjonalny sklep internetowy, umożliwiający przeglądanie produktów, dodawanie ich do koszyka oraz finalizację zakupów. Backend aplikacji zrealizowałem przy użyciu ASP.NET Web API, a frontend w React. Aplikacja korzysta z bazy danych SQL Server do przechowywania informacji o produktach i użytkownikach.",
+        "tech": "Technologie"
+    },
+    "cookies": {
+        "message": "Strona wykorzystuje pliki cookies. Korzystając z niej zgadzasz się na to.",
+        "btn": "Akceptuję"
+    }
+}

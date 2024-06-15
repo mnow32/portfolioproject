@@ -1,27 +1,27 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import './About.css'
+import './Contact.css'
 
-function About() {
+function Contact() {
     const [t, i18n] = useTranslation("global")
     const handleChangeLanguage = (lang) => {
         i18n.changeLanguage(lang);
     };
     return (
 
-        <div className="About">
+        <div className="Contact">
             <button onClick={() => handleChangeLanguage("en")}>EN</button>
             <button onClick={() => handleChangeLanguage("pl")}>PL</button>
-
-            <h1>{t("about.title")}</h1>
-            <p>{t("about.message")}</p>
-            <h2>{t("about.skill")}</h2>
-            <p>C#, .NET, ASP.NET, Python, Entity Framework, SQL Server</p>
+            
+            <h1>{t("contact.title")}</h1>
+            <p>{t("contact.message")}</p>
+            <p>Email: uuu@gmail.com</p>
+            <p></p>
 
         </div>
 
-    );
-};
+    )
+}
 
-export default About
+export default Contact

@@ -1,0 +1,26 @@
+{
+    "about": {
+        "title": "About me",
+        "message": "Hi! My name is Mateusz and I am a beginner web developer with a passion for creating modern and functional web applications. I specialize in working with .NET technologies, which allow me to create efficient and scalable solutions. I have a solid foundation in C# and ASP.NET, as well as experience working with SQL Server databases. I constantly expand my knowledge by following the latest trends in the industry and experimenting with new tools and frameworks. My goal is to constantly develop and create applications that not only meet users' expectations, but also provide them with unforgettable experiences.",
+        "skill": "Skills"
+    },
+    "contact": {
+        "title": "Contact me",
+        "message": "Contact me",
+        "tel": "Telefon"
+    },
+    "projects": {
+        "title": "Projects",
+        "title1": "Task Management Application",
+        "projekt1": "I created a task management application that allows users to create, edit, delete tasks and track their status. The application was built using ASP.NET MVC and I designed the user interface using Bootstrap. Data is stored in a SQL Server database, and Entity Framework allows you to work with the data efficiently.",
+        "title2": "Social Platform for Programmers",
+        "projekt2": "I developed a social networking site aimed at programmers, where users can create profiles, share posts, comment and rate other users' content. The backend of the application is based on ASP.NET Core, while the frontend was developed using Angular. I used Identity Framework and Entity Framework Core to manage data.",
+        "title3": "Online Store",
+        "projekt3": "I created a fully functional online store that allows you to browse products, add them to your cart and finalize your purchases. I implemented the backend of the application using ASP.NET Web API, and the frontend in React. The application uses a SQL Server database to store information about products and users.",
+        "tech": "Technologies"
+    },
+    "cookies": {
+        "message": "This page utilizes cookies. By using it you accept this.",
+        "btn": "Accept"
+    }
+}

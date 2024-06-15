@@ -1,0 +1,50 @@
+.About {
+    padding: 20px;
+    text-align: center;
+    min-height: 80vh;
+  }
+  
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+p {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}  
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+ul li {
+    background: #f9f9f9;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+ul li h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+ul li p {
+    margin: 10px 0 0;
+    color: #666;
+  }
+
+button {
+  margin-left: 10px;
+  border-radius: 20%;
+  background-color: cadetblue;
+}
